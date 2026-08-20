@@ -1,8 +1,6 @@
-package aula02;
+package aula03;
 
 import java.util.*;
-import java.io.*;
-import java.math.*;
 
 class Loops2 {
     public static void main(String[] argh) {

@@ -1,9 +1,8 @@
-package aula02;
+package aula00;
 
-import java.awt.desktop.SystemSleepEvent;
 import java.util.Scanner;
 
-public class TestesLocais {
+public class Fatorial {
 
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
