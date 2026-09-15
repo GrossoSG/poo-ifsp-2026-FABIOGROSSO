@@ -104,8 +104,8 @@
     Minha Resposta: Ele prioriza o método com correspondência exata dos parâmetros. Neste exemplo foi o com exatamente 2 atributos_
 
 ### Atividade 10: Integrando tudo, a classe ContaBancaria
-    1. O this diferenciou os atributos dos parâmetros, o this(...) chamou outro construtor e, no depositar, o this indicou os atributos do próprio objeto.
-    2. isAtiva() é uma convenção usada para getters booleanos. O funcionamento é o mesmo de um getter normal.
+    1. _O this diferenciou os atributos dos parâmetros, o this(...) chamou outro construtor e, no depositar, o this indicou os atributos do próprio objeto._
+    2. _isAtiva() é uma convenção usada para getters booleanos. O funcionamento é o mesmo de um getter normal._
     3.
     _Prompt: Em uma classe ContaBancaria com saldo, titular e estado ativo, qual validação extra um sistema bancário real poderia aplicar nos métodos depositar ou sacar? Responda de maneira simples.
     Resposta da IA: Um sistema bancário poderia limitar o valor máximo de depósitos ou saques e impedir saques maiores que o saldo disponível.
