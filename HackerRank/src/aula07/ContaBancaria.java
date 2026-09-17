@@ -1,4 +1,4 @@
-package aula07;
+/*package aula07;
 
 public class ContaBancaria {
     private String titular;
@@ -39,3 +39,4 @@ public class ContaBancaria {
         this.ativa = outra.ativa;
     }
 }
+ */
