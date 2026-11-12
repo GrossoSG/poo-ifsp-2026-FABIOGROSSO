@@ -1,0 +1,15 @@
+Atributos repetidos nas classes Gerente e Desenvolvedor:
+- nome
+- cpf
+- salario
+
+Métodos repetidos:
+- getNome()
+- getCpf()
+- getSalario()
+- calcularBonus()
+
+Também existe repetição nos construtores, pois ambos recebem e inicializam:
+- nome
+- cpf
+- salario
